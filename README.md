@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Faanilo</h1>
 <h3 align="center">a little one who wants to evolve</h3>
 
-<img align ="right" alt="coding" width ="400" src="https://media.giphy.com/media/a5MFvAwc6GPf2/giphy.gif">
+<img align ="right" alt="coding" width ="400" src="">
 
 - 📫 How to reach me **faniloniainaa21@gmail.com**
 
