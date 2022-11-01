@@ -1,4 +1,4 @@
-![logo](https://github.com/Faanilo/krakyy/blob/main/krakyy.png)
+
 # krakyy
 <h1 align="center">Hi 👋, I'm Faanilo</h1>
 <h3 align="center">a little one who wants to evolve</h3>
