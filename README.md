@@ -1,8 +1,6 @@
 
-# krakyy
-<p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
-</p>
+                                                                 #krakyy✌️
+
 
 <h1 align="center">Faanilo</h1>
 <p align="center">
