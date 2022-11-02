@@ -7,12 +7,14 @@
  <img width="120" height="80" src="https://1.bp.blogspot.com/-8Ifiv1pEGTs/YDpmpi0gW7I/AAAAAAAA4cM/rBFMX_JU8gMv7EOGG6HdHRpANfsUSEdmgCLcBGAsYHQ/s0/Flag_of_Madagascar.gif">
   </p>
 
-
-
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2431F7&background=1634FF00&center=true&vCenter=true&width=435&lines=Salama+o+!!" alt="Typing SVG" /></a>
   </h1
+  
+  
+  
+  
+  
 - 📫 How to reach me **faniloniainaa21@gmail.com**
 - ⚡ Fun fact **Funnyyy guyyyy**
 <h3 align="left">Connect with me:</h3>
