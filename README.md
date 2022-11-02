@@ -4,20 +4,19 @@
   <img width="460" height="300" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Faanilo</h1>
-<h3 align="center">a passionate developer from Madagascar</h3>
+<h1 align="center">Faanilo</h1>
+<p align="center">
+ <img width="120" height="80" src="https://1.bp.blogspot.com/-8Ifiv1pEGTs/YDpmpi0gW7I/AAAAAAAA4cM/rBFMX_JU8gMv7EOGG6HdHRpANfsUSEdmgCLcBGAsYHQ/s0/Flag_of_Madagascar.gif">
+  </p>
+
 
 
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=000000&background=1624FF00&multiline=true&width=342&lines=Salama+o+!!!" alt="Typing SVG" /></a>
   </h1
-
-
 - 📫 How to reach me **faniloniainaa21@gmail.com**
-
 - ⚡ Fun fact **Funnyyy guyyyy**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@niaina89684589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@niaina89684589" height="30" width="40" /></a>
