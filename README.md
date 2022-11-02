@@ -9,6 +9,10 @@
 
 
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=000000&background=1624FF00&multiline=true&width=342&lines=Salama+o+!!!" alt="Typing SVG" /></a>
+  </h1
+
 
 - 📫 How to reach me **faniloniainaa21@gmail.com**
 
