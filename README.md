@@ -16,7 +16,7 @@
   
   
 - 📫 How to reach me **faniloniainaa21@gmail.com**
-- ⚡ Fun fact **Funnyyy guyyyy**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@niaina89684589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@niaina89684589" height="30" width="40" /></a>
