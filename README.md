@@ -1,7 +1,3 @@
-
-                                                          #krakyy✌️
-
-
 <h1 align="center">Faanilo</h1>
 <p align="center">
  <img width="120" height="80" src="https://1.bp.blogspot.com/-8Ifiv1pEGTs/YDpmpi0gW7I/AAAAAAAA4cM/rBFMX_JU8gMv7EOGG6HdHRpANfsUSEdmgCLcBGAsYHQ/s0/Flag_of_Madagascar.gif">
@@ -28,9 +24,3 @@
   <br/>
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> </a> </p>
 </div>
-
-
-<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faanilo&show_icons=true&locale=en&layout=compact" alt="faanilo" /></p>
-
-
-![snake gif](https://github.com/Faanilo/Faanilo/blob/output/github-contribution-grid-snake.gif)
