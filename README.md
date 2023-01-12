@@ -15,13 +15,11 @@
 <div align="center">
 	<code><img height="100" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="100" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
-	<code><img height="100" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
-	<code><img height="100" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
-	<code><img height="100" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
+	<code><img height="100" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code>
 </div>
 
 <h1 align="center">
 <p align="center">
-<a align=""center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%BC+!!!!;%F0%9D%97%A3%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BB+%2C+%F0%9D%97%9D%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BD%F0%9D%98%81+%2C+%F0%9D%97%9F%F0%9D%97%B6%F0%9D%97%BB%F0%9D%98%82%F0%9D%98%85" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2F13F7&center=true&vCenter=true&width=435&lines=JavaScript+%2F+TypeScript+" alt="Typing SVG" /></a>
 </p>
 </h1>
