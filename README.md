@@ -20,8 +20,3 @@
 
 </div>
 
-<h1 align="center">
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2F13F7&center=true&vCenter=true&width=435&lines=JavaScript+%2F+TypeScript+" alt="Typing SVG" /></a>
-</p>
-</h1>
